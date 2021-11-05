@@ -1,0 +1,17 @@
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\bin\Debug\netcoreapp3.1\jogoVelhaForms.exe
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\bin\Debug\netcoreapp3.1\jogoVelhaForms.deps.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\bin\Debug\netcoreapp3.1\jogoVelhaForms.runtimeconfig.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\bin\Debug\netcoreapp3.1\jogoVelhaForms.runtimeconfig.dev.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\bin\Debug\netcoreapp3.1\jogoVelhaForms.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\bin\Debug\netcoreapp3.1\jogoVelhaForms.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.csproj.AssemblyReference.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.Form1.resources
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.csproj.GenerateResource.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.AssemblyInfoInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.AssemblyInfo.cs
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.csproj.CoreCompileInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.genruntimeconfig.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\Jogo da velha 2.0\jogoVelhaForms\jogoVelhaForms\obj\Debug\netcoreapp3.1\jogoVelhaForms.Properties.Resources.resources
